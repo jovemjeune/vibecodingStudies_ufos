@@ -5,7 +5,7 @@ It is just an animation and vibe coding study where I tried combining horror,mel
 
 ## How to build it?
 Here are the steps that you should follow : 
-1.  Copy all the files above inside vibecoding directory.
+1. `git clone https://github.com/jovemjeune/vibecodingStudies_ufos.git`
 2. `cd vibecoding`
 3. `npm i` 
 4. `npm run build`
