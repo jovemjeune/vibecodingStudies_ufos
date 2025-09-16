@@ -96,7 +96,7 @@ function init() {
     scene.add(ufoGroup);
   }
 
-  // Generate necromantic horror music inspired by Jörg Buttgereit's Nekromantik
+  // Generate dramatic horror music 
   let audioStarted = false;
   const startAudio = () => {
     if (audioStarted) return;
