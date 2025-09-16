@@ -1,0 +1,22 @@
+{
+  "name": "vibecoding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["3d", "animation", "space", "horror", "sci-fi", "three.js", "web-audio"],
+  "author": "jovemjeune",
+  "license": "ISC",
+  "description": "A 3D space horror animation with Lovecraftian themes, featuring UFOs, stars, and immersive sci-fi sounds.",
+  "devDependencies": {
+    "vite": "^7.1.5"
+  },
+  "dependencies": {
+
+    "three": "^0.180.0"
+  }
+}
